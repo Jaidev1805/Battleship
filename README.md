@@ -57,7 +57,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Jaidev1805/Battleship.git
    ```
 
 2. Navigate into the project folder:
